@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/bicycle-web/static/js/main.41dcbb7c.chunk.js",
+    "main.js.map": "/bicycle-web/static/js/main.41dcbb7c.chunk.js.map",
+    "runtime-main.js": "/bicycle-web/static/js/runtime-main.291988e1.js",
+    "runtime-main.js.map": "/bicycle-web/static/js/runtime-main.291988e1.js.map",
+    "static/css/2.239d00da.chunk.css": "/bicycle-web/static/css/2.239d00da.chunk.css",
+    "static/js/2.acf56b65.chunk.js": "/bicycle-web/static/js/2.acf56b65.chunk.js",
+    "static/js/2.acf56b65.chunk.js.map": "/bicycle-web/static/js/2.acf56b65.chunk.js.map",
+    "static/js/3.b179d2f5.chunk.js": "/bicycle-web/static/js/3.b179d2f5.chunk.js",
+    "static/js/3.b179d2f5.chunk.js.map": "/bicycle-web/static/js/3.b179d2f5.chunk.js.map",
+    "index.html": "/bicycle-web/index.html",
+    "static/css/2.239d00da.chunk.css.map": "/bicycle-web/static/css/2.239d00da.chunk.css.map",
+    "static/js/2.acf56b65.chunk.js.LICENSE.txt": "/bicycle-web/static/js/2.acf56b65.chunk.js.LICENSE.txt",
+    "static/media/dx.light.css": "/bicycle-web/static/media/dxicons.d8b3a23c.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.291988e1.js",
+    "static/css/2.239d00da.chunk.css",
+    "static/js/2.acf56b65.chunk.js",
+    "static/js/main.41dcbb7c.chunk.js"
+  ]
+}
